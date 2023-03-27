@@ -1,0 +1,21 @@
+.nav-center {
+    display: flex;
+    align-items: stretch;
+
+}
+.buto {
+    background-color: goldenrod;
+    color: whitesmoke;
+    margin: 2px;
+    border: 2px solid black;
+    border-radius: 6px;
+    padding: 15px 25px;
+    font-size: large;
+    cursor: pointer;
+
+}
+.mid {
+    margin-top: 300px;
+    
+    size: 50px;
+}
